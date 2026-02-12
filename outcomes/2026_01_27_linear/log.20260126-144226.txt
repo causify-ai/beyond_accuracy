@@ -1,0 +1,39 @@
+
+################################################################################
+2/2 (20260126-144226)
+################################################################################
+
+tag=2/2 (20260126-144226)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000003', 'T000004'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=322.787
+start_ts=20260126-144226
+end_ts=20260126-144749
+error=False
+################################################################################
+1/2 (20260126-144226)
+################################################################################
+
+tag=1/2 (20260126-144226)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000000', 'T000001', 'T000002'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=348.914
+start_ts=20260126-144226
+end_ts=20260126-144815
+error=False

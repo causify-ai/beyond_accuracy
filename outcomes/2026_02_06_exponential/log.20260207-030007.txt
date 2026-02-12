@@ -1,0 +1,22 @@
+
+################################################################################
+136/138 (20260207-115117)
+################################################################################
+
+tag=136/138 (20260207-115117)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000405', 'T000406', 'T000407'], dtype='<U7'),
+ 0.6,
+ './outcomes/2026_02_06_exponential',
+ 'exponential')
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=1580.733
+start_ts=20260207-115117
+end_ts=20260207-121738
+error=False

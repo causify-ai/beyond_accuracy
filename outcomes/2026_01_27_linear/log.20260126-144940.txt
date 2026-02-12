@@ -1,0 +1,2624 @@
+
+################################################################################
+5/138 (20260126-144940)
+################################################################################
+
+tag=5/138 (20260126-144940)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000012', 'T000013', 'T000014'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2531.017
+start_ts=20260126-144940
+end_ts=20260126-153151
+error=False
+################################################################################
+1/138 (20260126-144940)
+################################################################################
+
+tag=1/138 (20260126-144940)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000000', 'T000001', 'T000002'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2535.012
+start_ts=20260126-144940
+end_ts=20260126-153155
+error=False
+################################################################################
+3/138 (20260126-144940)
+################################################################################
+
+tag=3/138 (20260126-144940)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000006', 'T000007', 'T000008'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2753.957
+start_ts=20260126-144940
+end_ts=20260126-153534
+error=False
+################################################################################
+6/138 (20260126-144940)
+################################################################################
+
+tag=6/138 (20260126-144940)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000015', 'T000016', 'T000017'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2849.303
+start_ts=20260126-144940
+end_ts=20260126-153709
+error=False
+################################################################################
+4/138 (20260126-144940)
+################################################################################
+
+tag=4/138 (20260126-144940)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000009', 'T000010', 'T000011'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3056.464
+start_ts=20260126-144940
+end_ts=20260126-154037
+error=False
+################################################################################
+11/138 (20260126-154037)
+################################################################################
+
+tag=11/138 (20260126-154037)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000030', 'T000031', 'T000032'], dtype='<U7'),
+ 0.6)
+kwargs={}
+exception='LU decomposition error.'
+func_res=<omitted>
+elapsed_time_in_secs=135.669
+start_ts=20260126-154037
+end_ts=20260126-154252
+error=True
+################################################################################
+2/138 (20260126-144940)
+################################################################################
+
+tag=2/138 (20260126-144940)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000003', 'T000004', 'T000005'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3460.259
+start_ts=20260126-144940
+end_ts=20260126-154720
+error=False
+################################################################################
+8/138 (20260126-153155)
+################################################################################
+
+tag=8/138 (20260126-153155)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000021', 'T000022', 'T000023'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2124.23
+start_ts=20260126-153155
+end_ts=20260126-160719
+error=False
+################################################################################
+7/138 (20260126-153151)
+################################################################################
+
+tag=7/138 (20260126-153151)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000018', 'T000019', 'T000020'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2426.966
+start_ts=20260126-153151
+end_ts=20260126-161218
+error=False
+################################################################################
+9/138 (20260126-153534)
+################################################################################
+
+tag=9/138 (20260126-153534)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000024', 'T000025', 'T000026'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2334.698
+start_ts=20260126-153534
+end_ts=20260126-161429
+error=False
+################################################################################
+12/138 (20260126-154252)
+################################################################################
+
+tag=12/138 (20260126-154252)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000033', 'T000034', 'T000035'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=1986.297
+start_ts=20260126-154252
+end_ts=20260126-161559
+error=False
+################################################################################
+10/138 (20260126-153709)
+################################################################################
+
+tag=10/138 (20260126-153709)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000027', 'T000028', 'T000029'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2534.93
+start_ts=20260126-153709
+end_ts=20260126-161924
+error=False
+################################################################################
+13/138 (20260126-154720)
+################################################################################
+
+tag=13/138 (20260126-154720)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000036', 'T000037', 'T000038'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2169.299
+start_ts=20260126-154720
+end_ts=20260126-162330
+error=False
+################################################################################
+14/138 (20260126-160719)
+################################################################################
+
+tag=14/138 (20260126-160719)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000039', 'T000040', 'T000041'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2240.664
+start_ts=20260126-160719
+end_ts=20260126-164440
+error=False
+################################################################################
+18/138 (20260126-161924)
+################################################################################
+
+tag=18/138 (20260126-161924)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000051', 'T000052', 'T000053'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2395.898
+start_ts=20260126-161924
+end_ts=20260126-165920
+error=False
+################################################################################
+19/138 (20260126-162330)
+################################################################################
+
+tag=19/138 (20260126-162330)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000054', 'T000055', 'T000056'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2329.7
+start_ts=20260126-162330
+end_ts=20260126-170219
+error=False
+################################################################################
+17/138 (20260126-161559)
+################################################################################
+
+tag=17/138 (20260126-161559)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000048', 'T000049', 'T000050'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2999.337
+start_ts=20260126-161559
+end_ts=20260126-170558
+error=False
+################################################################################
+15/138 (20260126-161218)
+################################################################################
+
+tag=15/138 (20260126-161218)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000042', 'T000043', 'T000044'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4031.702
+start_ts=20260126-161218
+end_ts=20260126-171930
+error=False
+################################################################################
+16/138 (20260126-161429)
+################################################################################
+
+tag=16/138 (20260126-161429)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000045', 'T000046', 'T000047'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4243.496
+start_ts=20260126-161429
+end_ts=20260126-172512
+error=False
+################################################################################
+20/138 (20260126-164440)
+################################################################################
+
+tag=20/138 (20260126-164440)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000057', 'T000058', 'T000059'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2850.854
+start_ts=20260126-164440
+end_ts=20260126-173211
+error=False
+################################################################################
+21/138 (20260126-165920)
+################################################################################
+
+tag=21/138 (20260126-165920)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000060', 'T000061', 'T000062'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2398.302
+start_ts=20260126-165920
+end_ts=20260126-173919
+error=False
+################################################################################
+23/138 (20260126-170558)
+################################################################################
+
+tag=23/138 (20260126-170558)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000066', 'T000067', 'T000068'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2546.505
+start_ts=20260126-170558
+end_ts=20260126-174824
+error=False
+################################################################################
+22/138 (20260126-170219)
+################################################################################
+
+tag=22/138 (20260126-170219)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000063', 'T000064', 'T000065'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2828.667
+start_ts=20260126-170219
+end_ts=20260126-174928
+error=False
+################################################################################
+25/138 (20260126-172512)
+################################################################################
+
+tag=25/138 (20260126-172512)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000072', 'T000073', 'T000074'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2579.826
+start_ts=20260126-172512
+end_ts=20260126-180812
+error=False
+################################################################################
+24/138 (20260126-171930)
+################################################################################
+
+tag=24/138 (20260126-171930)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000069', 'T000070', 'T000071'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2985.318
+start_ts=20260126-171930
+end_ts=20260126-180915
+error=False
+################################################################################
+27/138 (20260126-173919)
+################################################################################
+
+tag=27/138 (20260126-173919)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000078', 'T000079', 'T000080'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2471.381
+start_ts=20260126-173919
+end_ts=20260126-182030
+error=False
+################################################################################
+26/138 (20260126-173211)
+################################################################################
+
+tag=26/138 (20260126-173211)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000075', 'T000076', 'T000077'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3102.915
+start_ts=20260126-173211
+end_ts=20260126-182354
+error=False
+################################################################################
+29/138 (20260126-174928)
+################################################################################
+
+tag=29/138 (20260126-174928)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000084', 'T000085', 'T000086'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2957.554
+start_ts=20260126-174928
+end_ts=20260126-183846
+error=False
+################################################################################
+28/138 (20260126-174824)
+################################################################################
+
+tag=28/138 (20260126-174824)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000081', 'T000082', 'T000083'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3248.844
+start_ts=20260126-174824
+end_ts=20260126-184233
+error=False
+################################################################################
+30/138 (20260126-180812)
+################################################################################
+
+tag=30/138 (20260126-180812)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000087', 'T000088', 'T000089'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2726.225
+start_ts=20260126-180812
+end_ts=20260126-185338
+error=False
+################################################################################
+31/138 (20260126-180915)
+################################################################################
+
+tag=31/138 (20260126-180915)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000090', 'T000091', 'T000092'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2679.708
+start_ts=20260126-180915
+end_ts=20260126-185355
+error=False
+################################################################################
+33/138 (20260126-182354)
+################################################################################
+
+tag=33/138 (20260126-182354)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000096', 'T000097', 'T000098'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2530.38
+start_ts=20260126-182354
+end_ts=20260126-190604
+error=False
+################################################################################
+32/138 (20260126-182030)
+################################################################################
+
+tag=32/138 (20260126-182030)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000093', 'T000094', 'T000095'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2901.126
+start_ts=20260126-182030
+end_ts=20260126-190851
+error=False
+################################################################################
+34/138 (20260126-183846)
+################################################################################
+
+tag=34/138 (20260126-183846)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000099', 'T000100', 'T000101'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2227.33
+start_ts=20260126-183846
+end_ts=20260126-191553
+error=False
+################################################################################
+36/138 (20260126-185338)
+################################################################################
+
+tag=36/138 (20260126-185338)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000105', 'T000106', 'T000107'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2097.683
+start_ts=20260126-185338
+end_ts=20260126-192836
+error=False
+################################################################################
+35/138 (20260126-184233)
+################################################################################
+
+tag=35/138 (20260126-184233)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000102', 'T000103', 'T000104'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3173.953
+start_ts=20260126-184233
+end_ts=20260126-193527
+error=False
+################################################################################
+39/138 (20260126-190851)
+################################################################################
+
+tag=39/138 (20260126-190851)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000114', 'T000115', 'T000116'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2698.957
+start_ts=20260126-190851
+end_ts=20260126-195350
+error=False
+################################################################################
+38/138 (20260126-190604)
+################################################################################
+
+tag=38/138 (20260126-190604)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000111', 'T000112', 'T000113'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3045.683
+start_ts=20260126-190604
+end_ts=20260126-195650
+error=False
+################################################################################
+40/138 (20260126-191553)
+################################################################################
+
+tag=40/138 (20260126-191553)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000117', 'T000118', 'T000119'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2554.919
+start_ts=20260126-191553
+end_ts=20260126-195828
+error=False
+################################################################################
+42/138 (20260126-193527)
+################################################################################
+
+tag=42/138 (20260126-193527)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000123', 'T000124', 'T000125'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=1558.801
+start_ts=20260126-193527
+end_ts=20260126-200126
+error=False
+################################################################################
+43/138 (20260126-195350)
+################################################################################
+
+tag=43/138 (20260126-195350)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000126', 'T000127', 'T000128'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=1623.24
+start_ts=20260126-195350
+end_ts=20260126-202053
+error=False
+################################################################################
+37/138 (20260126-185355)
+################################################################################
+
+tag=37/138 (20260126-185355)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000108', 'T000109', 'T000110'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=5499.614
+start_ts=20260126-185355
+end_ts=20260126-202535
+error=False
+################################################################################
+46/138 (20260126-200126)
+################################################################################
+
+tag=46/138 (20260126-200126)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000135', 'T000136', 'T000137'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=1622.944
+start_ts=20260126-200126
+end_ts=20260126-202829
+error=False
+################################################################################
+41/138 (20260126-192836)
+################################################################################
+
+tag=41/138 (20260126-192836)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000120', 'T000121', 'T000122'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4022.151
+start_ts=20260126-192836
+end_ts=20260126-203538
+error=False
+################################################################################
+45/138 (20260126-195828)
+################################################################################
+
+tag=45/138 (20260126-195828)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000132', 'T000133', 'T000134'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2753.607
+start_ts=20260126-195828
+end_ts=20260126-204421
+error=False
+################################################################################
+44/138 (20260126-195650)
+################################################################################
+
+tag=44/138 (20260126-195650)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000129', 'T000130', 'T000131'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2996.374
+start_ts=20260126-195650
+end_ts=20260126-204646
+error=False
+################################################################################
+47/138 (20260126-202053)
+################################################################################
+
+tag=47/138 (20260126-202053)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000138', 'T000139', 'T000140'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=1601.299
+start_ts=20260126-202053
+end_ts=20260126-204735
+error=False
+################################################################################
+49/138 (20260126-202829)
+################################################################################
+
+tag=49/138 (20260126-202829)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000144', 'T000145', 'T000146'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2045.536
+start_ts=20260126-202829
+end_ts=20260126-210235
+error=False
+################################################################################
+48/138 (20260126-202535)
+################################################################################
+
+tag=48/138 (20260126-202535)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000141', 'T000142', 'T000143'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2863.956
+start_ts=20260126-202535
+end_ts=20260126-211318
+error=False
+################################################################################
+50/138 (20260126-203538)
+################################################################################
+
+tag=50/138 (20260126-203538)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000147', 'T000148', 'T000149'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3195.881
+start_ts=20260126-203538
+end_ts=20260126-212854
+error=False
+################################################################################
+51/138 (20260126-204421)
+################################################################################
+
+tag=51/138 (20260126-204421)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000150', 'T000151', 'T000152'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2784.287
+start_ts=20260126-204421
+end_ts=20260126-213046
+error=False
+################################################################################
+52/138 (20260126-204646)
+################################################################################
+
+tag=52/138 (20260126-204646)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000153', 'T000154', 'T000155'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2787.132
+start_ts=20260126-204646
+end_ts=20260126-213313
+error=False
+################################################################################
+53/138 (20260126-204735)
+################################################################################
+
+tag=53/138 (20260126-204735)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000156', 'T000157', 'T000158'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2929.1
+start_ts=20260126-204735
+end_ts=20260126-213624
+error=False
+################################################################################
+54/138 (20260126-210235)
+################################################################################
+
+tag=54/138 (20260126-210235)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000159', 'T000160', 'T000161'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2667.504
+start_ts=20260126-210235
+end_ts=20260126-214702
+error=False
+################################################################################
+56/138 (20260126-212854)
+################################################################################
+
+tag=56/138 (20260126-212854)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000165', 'T000166', 'T000167'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2168.437
+start_ts=20260126-212854
+end_ts=20260126-220503
+error=False
+################################################################################
+55/138 (20260126-211318)
+################################################################################
+
+tag=55/138 (20260126-211318)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000162', 'T000163', 'T000164'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=7585.111
+start_ts=20260126-211318
+end_ts=20260126-231944
+error=False
+################################################################################
+57/138 (20260126-213046)
+################################################################################
+
+tag=57/138 (20260126-213046)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000168', 'T000169', 'T000170'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=8944.366
+start_ts=20260126-213046
+end_ts=20260126-235950
+error=False
+################################################################################
+58/138 (20260126-213313)
+################################################################################
+
+tag=58/138 (20260126-213313)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000171', 'T000172', 'T000173'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=9849.915
+start_ts=20260126-213313
+end_ts=20260127-001723
+error=False
+################################################################################
+61/138 (20260126-220503)
+################################################################################
+
+tag=61/138 (20260126-220503)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000180', 'T000181', 'T000182'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=12322.688
+start_ts=20260126-220503
+end_ts=20260127-013025
+error=False
+################################################################################
+59/138 (20260126-213624)
+################################################################################
+
+tag=59/138 (20260126-213624)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000174', 'T000175', 'T000176'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=14466.352
+start_ts=20260126-213624
+end_ts=20260127-013730
+error=False
+################################################################################
+62/138 (20260126-231944)
+################################################################################
+
+tag=62/138 (20260126-231944)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000183', 'T000184', 'T000185'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=9699.798
+start_ts=20260126-231944
+end_ts=20260127-020123
+error=False
+################################################################################
+63/138 (20260126-235950)
+################################################################################
+
+tag=63/138 (20260126-235950)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000186', 'T000187', 'T000188'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=8907.464
+start_ts=20260126-235950
+end_ts=20260127-022818
+error=False
+################################################################################
+66/138 (20260127-013730)
+################################################################################
+
+tag=66/138 (20260127-013730)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000195', 'T000196', 'T000197'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3509.404
+start_ts=20260127-013730
+end_ts=20260127-023600
+error=False
+################################################################################
+60/138 (20260126-214702)
+################################################################################
+
+tag=60/138 (20260126-214702)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000177', 'T000178', 'T000179'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=19328.509
+start_ts=20260126-214702
+end_ts=20260127-030911
+error=False
+################################################################################
+68/138 (20260127-022818)
+################################################################################
+
+tag=68/138 (20260127-022818)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000201', 'T000202', 'T000203'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3595.858
+start_ts=20260127-022818
+end_ts=20260127-032813
+error=False
+################################################################################
+64/138 (20260127-001723)
+################################################################################
+
+tag=64/138 (20260127-001723)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000189', 'T000190', 'T000191'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=15018.753
+start_ts=20260127-001723
+end_ts=20260127-042742
+error=False
+################################################################################
+65/138 (20260127-013025)
+################################################################################
+
+tag=65/138 (20260127-013025)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000192', 'T000193', 'T000194'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=14338.385
+start_ts=20260127-013025
+end_ts=20260127-052924
+error=False
+################################################################################
+69/138 (20260127-023600)
+################################################################################
+
+tag=69/138 (20260127-023600)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000204', 'T000205', 'T000206'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=12429.492
+start_ts=20260127-023600
+end_ts=20260127-060309
+error=False
+################################################################################
+73/138 (20260127-052924)
+################################################################################
+
+tag=73/138 (20260127-052924)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000216', 'T000217', 'T000218'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2931.063
+start_ts=20260127-052924
+end_ts=20260127-061815
+error=False
+################################################################################
+67/138 (20260127-020123)
+################################################################################
+
+tag=67/138 (20260127-020123)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000198', 'T000199', 'T000200'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=15881.136
+start_ts=20260127-020123
+end_ts=20260127-062605
+error=False
+################################################################################
+70/138 (20260127-030911)
+################################################################################
+
+tag=70/138 (20260127-030911)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000207', 'T000208', 'T000209'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=15471.569
+start_ts=20260127-030911
+end_ts=20260127-072702
+error=False
+################################################################################
+75/138 (20260127-061815)
+################################################################################
+
+tag=75/138 (20260127-061815)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000222', 'T000223', 'T000224'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4648.417
+start_ts=20260127-061815
+end_ts=20260127-073543
+error=False
+################################################################################
+74/138 (20260127-060309)
+################################################################################
+
+tag=74/138 (20260127-060309)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000219', 'T000220', 'T000221'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=9978.056
+start_ts=20260127-060309
+end_ts=20260127-084927
+error=False
+################################################################################
+72/138 (20260127-042742)
+################################################################################
+
+tag=72/138 (20260127-042742)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000213', 'T000214', 'T000215'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=16382.202
+start_ts=20260127-042742
+end_ts=20260127-090044
+error=False
+################################################################################
+71/138 (20260127-032813)
+################################################################################
+
+tag=71/138 (20260127-032813)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000210', 'T000211', 'T000212'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=21225.209
+start_ts=20260127-032813
+end_ts=20260127-092159
+error=False
+################################################################################
+76/138 (20260127-062605)
+################################################################################
+
+tag=76/138 (20260127-062605)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000225', 'T000226', 'T000227'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=15788.025
+start_ts=20260127-062605
+end_ts=20260127-104913
+error=False
+################################################################################
+80/138 (20260127-090044)
+################################################################################
+
+tag=80/138 (20260127-090044)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000237', 'T000238', 'T000239'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=8757.996
+start_ts=20260127-090044
+end_ts=20260127-112642
+error=False
+################################################################################
+77/138 (20260127-072702)
+################################################################################
+
+tag=77/138 (20260127-072702)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000228', 'T000229', 'T000230'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=15490.491
+start_ts=20260127-072702
+end_ts=20260127-114513
+error=False
+################################################################################
+78/138 (20260127-073543)
+################################################################################
+
+tag=78/138 (20260127-073543)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000231', 'T000232', 'T000233'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=16838.804
+start_ts=20260127-073543
+end_ts=20260127-121622
+error=False
+################################################################################
+83/138 (20260127-112642)
+################################################################################
+
+tag=83/138 (20260127-112642)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000246', 'T000247', 'T000248'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4389.293
+start_ts=20260127-112642
+end_ts=20260127-123952
+error=False
+################################################################################
+79/138 (20260127-084927)
+################################################################################
+
+tag=79/138 (20260127-084927)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000234', 'T000235', 'T000236'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=17044.571
+start_ts=20260127-084927
+end_ts=20260127-133332
+error=False
+################################################################################
+81/138 (20260127-092159)
+################################################################################
+
+tag=81/138 (20260127-092159)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000240', 'T000241', 'T000242'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=15604.434
+start_ts=20260127-092159
+end_ts=20260127-134203
+error=False
+################################################################################
+84/138 (20260127-114513)
+################################################################################
+
+tag=84/138 (20260127-114513)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000249', 'T000250', 'T000251'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=8018.48
+start_ts=20260127-114513
+end_ts=20260127-135851
+error=False
+################################################################################
+82/138 (20260127-104913)
+################################################################################
+
+tag=82/138 (20260127-104913)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000243', 'T000244', 'T000245'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=11669.555
+start_ts=20260127-104913
+end_ts=20260127-140342
+error=False
+################################################################################
+85/138 (20260127-121622)
+################################################################################
+
+tag=85/138 (20260127-121622)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000252', 'T000253', 'T000254'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=8527.324
+start_ts=20260127-121622
+end_ts=20260127-143829
+error=False
+################################################################################
+90/138 (20260127-140342)
+################################################################################
+
+tag=90/138 (20260127-140342)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000267', 'T000268', 'T000269'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3757.223
+start_ts=20260127-140342
+end_ts=20260127-150619
+error=False
+################################################################################
+86/138 (20260127-123952)
+################################################################################
+
+tag=86/138 (20260127-123952)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000255', 'T000256', 'T000257'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=15100.53
+start_ts=20260127-123952
+end_ts=20260127-165132
+error=False
+################################################################################
+87/138 (20260127-133332)
+################################################################################
+
+tag=87/138 (20260127-133332)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000258', 'T000259', 'T000260'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=12305.921
+start_ts=20260127-133332
+end_ts=20260127-165838
+error=False
+################################################################################
+89/138 (20260127-135851)
+################################################################################
+
+tag=89/138 (20260127-135851)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000264', 'T000265', 'T000266'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=11629.712
+start_ts=20260127-135851
+end_ts=20260127-171241
+error=False
+################################################################################
+88/138 (20260127-134203)
+################################################################################
+
+tag=88/138 (20260127-134203)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000261', 'T000262', 'T000263'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=16846.216
+start_ts=20260127-134203
+end_ts=20260127-182249
+error=False
+################################################################################
+91/138 (20260127-143829)
+################################################################################
+
+tag=91/138 (20260127-143829)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000270', 'T000271', 'T000272'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=14551.722
+start_ts=20260127-143829
+end_ts=20260127-184101
+error=False
+################################################################################
+93/138 (20260127-165132)
+################################################################################
+
+tag=93/138 (20260127-165132)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000276', 'T000277', 'T000278'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=9249.644
+start_ts=20260127-165132
+end_ts=20260127-192542
+error=False
+################################################################################
+95/138 (20260127-171241)
+################################################################################
+
+tag=95/138 (20260127-171241)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000282', 'T000283', 'T000284'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=9724.897
+start_ts=20260127-171241
+end_ts=20260127-195446
+error=False
+################################################################################
+92/138 (20260127-150619)
+################################################################################
+
+tag=92/138 (20260127-150619)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000273', 'T000274', 'T000275'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=19386.643
+start_ts=20260127-150619
+end_ts=20260127-202926
+error=False
+################################################################################
+94/138 (20260127-165838)
+################################################################################
+
+tag=94/138 (20260127-165838)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000279', 'T000280', 'T000281'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=13116.231
+start_ts=20260127-165838
+end_ts=20260127-203714
+error=False
+################################################################################
+97/138 (20260127-184101)
+################################################################################
+
+tag=97/138 (20260127-184101)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000288', 'T000289', 'T000290'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=9654.271
+start_ts=20260127-184101
+end_ts=20260127-212155
+error=False
+################################################################################
+100/138 (20260127-202926)
+################################################################################
+
+tag=100/138 (20260127-202926)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000297', 'T000298', 'T000299'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4588.905
+start_ts=20260127-202926
+end_ts=20260127-214555
+error=False
+################################################################################
+101/138 (20260127-203714)
+################################################################################
+
+tag=101/138 (20260127-203714)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000300', 'T000301', 'T000302'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=5466.578
+start_ts=20260127-203714
+end_ts=20260127-220820
+error=False
+################################################################################
+98/138 (20260127-192542)
+################################################################################
+
+tag=98/138 (20260127-192542)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000291', 'T000292', 'T000293'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=10350.975
+start_ts=20260127-192542
+end_ts=20260127-221813
+error=False
+################################################################################
+96/138 (20260127-182249)
+################################################################################
+
+tag=96/138 (20260127-182249)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000285', 'T000286', 'T000287'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=15072.354
+start_ts=20260127-182249
+end_ts=20260127-223402
+error=False
+################################################################################
+99/138 (20260127-195446)
+################################################################################
+
+tag=99/138 (20260127-195446)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000294', 'T000295', 'T000296'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=9662.704
+start_ts=20260127-195446
+end_ts=20260127-223549
+error=False
+################################################################################
+102/138 (20260127-212155)
+################################################################################
+
+tag=102/138 (20260127-212155)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000303', 'T000304', 'T000305'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=14010.017
+start_ts=20260127-212155
+end_ts=20260128-011525
+error=False
+################################################################################
+107/138 (20260127-223549)
+################################################################################
+
+tag=107/138 (20260127-223549)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000318', 'T000319', 'T000320'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=10424.694
+start_ts=20260127-223549
+end_ts=20260128-012933
+error=False
+################################################################################
+105/138 (20260127-221813)
+################################################################################
+
+tag=105/138 (20260127-221813)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000312', 'T000313', 'T000314'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=11854.545
+start_ts=20260127-221813
+end_ts=20260128-013547
+error=False
+################################################################################
+103/138 (20260127-214555)
+################################################################################
+
+tag=103/138 (20260127-214555)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000306', 'T000307', 'T000308'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=15431.109
+start_ts=20260127-214555
+end_ts=20260128-020306
+error=False
+################################################################################
+108/138 (20260128-011525)
+################################################################################
+
+tag=108/138 (20260128-011525)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000321', 'T000322', 'T000323'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3764.073
+start_ts=20260128-011525
+end_ts=20260128-021809
+error=False
+################################################################################
+104/138 (20260127-220820)
+################################################################################
+
+tag=104/138 (20260127-220820)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000309', 'T000310', 'T000311'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=15627.969
+start_ts=20260127-220820
+end_ts=20260128-022848
+error=False
+################################################################################
+106/138 (20260127-223402)
+################################################################################
+
+tag=106/138 (20260127-223402)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000315', 'T000316', 'T000317'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=15865.838
+start_ts=20260127-223402
+end_ts=20260128-025828
+error=False
+################################################################################
+111/138 (20260128-020306)
+################################################################################
+
+tag=111/138 (20260128-020306)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000330', 'T000331', 'T000332'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3481.36
+start_ts=20260128-020306
+end_ts=20260128-030107
+error=False
+################################################################################
+112/138 (20260128-021809)
+################################################################################
+
+tag=112/138 (20260128-021809)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000333', 'T000334', 'T000335'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3848.229
+start_ts=20260128-021809
+end_ts=20260128-032218
+error=False
+################################################################################
+113/138 (20260128-022848)
+################################################################################
+
+tag=113/138 (20260128-022848)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000336', 'T000337', 'T000338'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4428.307
+start_ts=20260128-022848
+end_ts=20260128-034237
+error=False
+################################################################################
+110/138 (20260128-013547)
+################################################################################
+
+tag=110/138 (20260128-013547)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000327', 'T000328', 'T000329'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=9050.037
+start_ts=20260128-013547
+end_ts=20260128-040637
+error=False
+################################################################################
+114/138 (20260128-025828)
+################################################################################
+
+tag=114/138 (20260128-025828)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000339', 'T000340', 'T000341'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4219.374
+start_ts=20260128-025828
+end_ts=20260128-040847
+error=False
+################################################################################
+115/138 (20260128-030107)
+################################################################################
+
+tag=115/138 (20260128-030107)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000342', 'T000343', 'T000344'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4213.097
+start_ts=20260128-030107
+end_ts=20260128-041121
+error=False
+################################################################################
+118/138 (20260128-040637)
+################################################################################
+
+tag=118/138 (20260128-040637)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000351', 'T000352', 'T000353'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4074.562
+start_ts=20260128-040637
+end_ts=20260128-051432
+error=False
+################################################################################
+119/138 (20260128-040847)
+################################################################################
+
+tag=119/138 (20260128-040847)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000354', 'T000355', 'T000356'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4221.079
+start_ts=20260128-040847
+end_ts=20260128-051908
+error=False
+################################################################################
+116/138 (20260128-032218)
+################################################################################
+
+tag=116/138 (20260128-032218)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000345', 'T000346', 'T000347'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=7138.898
+start_ts=20260128-032218
+end_ts=20260128-052117
+error=False
+################################################################################
+117/138 (20260128-034237)
+################################################################################
+
+tag=117/138 (20260128-034237)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000348', 'T000349', 'T000350'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=7785.213
+start_ts=20260128-034237
+end_ts=20260128-055222
+error=False
+################################################################################
+109/138 (20260128-012933)
+################################################################################
+
+tag=109/138 (20260128-012933)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000324', 'T000325', 'T000326'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=17326.245
+start_ts=20260128-012933
+end_ts=20260128-061819
+error=False
+################################################################################
+121/138 (20260128-051432)
+################################################################################
+
+tag=121/138 (20260128-051432)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000360', 'T000361', 'T000362'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4130.693
+start_ts=20260128-051432
+end_ts=20260128-062323
+error=False
+################################################################################
+122/138 (20260128-051908)
+################################################################################
+
+tag=122/138 (20260128-051908)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000363', 'T000364', 'T000365'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3995.172
+start_ts=20260128-051908
+end_ts=20260128-062543
+error=False
+################################################################################
+123/138 (20260128-052117)
+################################################################################
+
+tag=123/138 (20260128-052117)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000366', 'T000367', 'T000368'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3872.366
+start_ts=20260128-052117
+end_ts=20260128-062549
+error=False
+################################################################################
+124/138 (20260128-055222)
+################################################################################
+
+tag=124/138 (20260128-055222)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000369', 'T000370', 'T000371'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3679.007
+start_ts=20260128-055222
+end_ts=20260128-065341
+error=False
+################################################################################
+120/138 (20260128-041121)
+################################################################################
+
+tag=120/138 (20260128-041121)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000357', 'T000358', 'T000359'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=9844.957
+start_ts=20260128-041121
+end_ts=20260128-065526
+error=False
+################################################################################
+125/138 (20260128-061819)
+################################################################################
+
+tag=125/138 (20260128-061819)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000372', 'T000373', 'T000374'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4038.127
+start_ts=20260128-061819
+end_ts=20260128-072538
+error=False
+################################################################################
+126/138 (20260128-062323)
+################################################################################
+
+tag=126/138 (20260128-062323)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000375', 'T000376', 'T000377'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4001.291
+start_ts=20260128-062323
+end_ts=20260128-073004
+error=False
+################################################################################
+127/138 (20260128-062543)
+################################################################################
+
+tag=127/138 (20260128-062543)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000378', 'T000379', 'T000380'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4010.539
+start_ts=20260128-062543
+end_ts=20260128-073234
+error=False
+################################################################################
+129/138 (20260128-065341)
+################################################################################
+
+tag=129/138 (20260128-065341)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000384', 'T000385', 'T000386'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4392.974
+start_ts=20260128-065341
+end_ts=20260128-080654
+error=False
+################################################################################
+128/138 (20260128-062549)
+################################################################################
+
+tag=128/138 (20260128-062549)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000381', 'T000382', 'T000383'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=6192.419
+start_ts=20260128-062549
+end_ts=20260128-080901
+error=False
+################################################################################
+130/138 (20260128-065526)
+################################################################################
+
+tag=130/138 (20260128-065526)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000387', 'T000388', 'T000389'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4501.149
+start_ts=20260128-065526
+end_ts=20260128-081027
+error=False
+################################################################################
+131/138 (20260128-072538)
+################################################################################
+
+tag=131/138 (20260128-072538)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000390', 'T000391', 'T000392'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4380.323
+start_ts=20260128-072538
+end_ts=20260128-083838
+error=False
+################################################################################
+133/138 (20260128-073234)
+################################################################################
+
+tag=133/138 (20260128-073234)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000396', 'T000397', 'T000398'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4186.169
+start_ts=20260128-073234
+end_ts=20260128-084220
+error=False
+################################################################################
+132/138 (20260128-073004)
+################################################################################
+
+tag=132/138 (20260128-073004)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000393', 'T000394', 'T000395'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4636.38
+start_ts=20260128-073004
+end_ts=20260128-084720
+error=False
+################################################################################
+135/138 (20260128-080901)
+################################################################################
+
+tag=135/138 (20260128-080901)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000402', 'T000403', 'T000404'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3862.932
+start_ts=20260128-080901
+end_ts=20260128-091324
+error=False
+################################################################################
+134/138 (20260128-080654)
+################################################################################
+
+tag=134/138 (20260128-080654)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000399', 'T000400', 'T000401'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=4022.099
+start_ts=20260128-080654
+end_ts=20260128-091356
+error=False
+################################################################################
+136/138 (20260128-081027)
+################################################################################
+
+tag=136/138 (20260128-081027)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000405', 'T000406', 'T000407'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=3844.376
+start_ts=20260128-081027
+end_ts=20260128-091431
+error=False
+################################################################################
+137/138 (20260128-083838)
+################################################################################
+
+tag=137/138 (20260128-083838)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000408', 'T000409', 'T000410'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2559.66
+start_ts=20260128-083838
+end_ts=20260128-092118
+error=False
+################################################################################
+138/138 (20260128-084220)
+################################################################################
+
+tag=138/138 (20260128-084220)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000411', 'T000412', 'T000413'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=2343.855
+start_ts=20260128-084220
+end_ts=20260128-092124
+error=False

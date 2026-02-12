@@ -1,0 +1,39 @@
+
+################################################################################
+2/2 (20260126-135610)
+################################################################################
+
+tag=2/2 (20260126-135610)
+workload_func=run_on_dataset
+func_name=_run_on_dataset
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000003', 'T000004'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=349.886
+start_ts=20260126-135610
+end_ts=20260126-140200
+error=False
+################################################################################
+1/2 (20260126-135610)
+################################################################################
+
+tag=1/2 (20260126-135610)
+workload_func=run_on_dataset
+func_name=_run_on_dataset
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000000', 'T000001', 'T000002'], dtype='<U7'),
+ 0.6)
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=377.851
+start_ts=20260126-135610
+end_ts=20260126-140228
+error=False

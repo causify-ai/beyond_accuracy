@@ -1,0 +1,22 @@
+
+################################################################################
+120/138 (20260206-234431)
+################################################################################
+
+tag=120/138 (20260206-234431)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000357', 'T000358', 'T000359'], dtype='<U7'),
+ 0.6,
+ './outcomes/2026_02_06_uniform',
+ 'uniform')
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=5067.105
+start_ts=20260206-234431
+end_ts=20260207-010858
+error=False

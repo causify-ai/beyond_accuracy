@@ -1,0 +1,22 @@
+
+################################################################################
+135/138 (20260209-082800)
+################################################################################
+
+tag=135/138 (20260209-082800)
+workload_func=run_experiment_and_save_outcomes
+func_name=_run_experiment_and_save_outcomes
+args=(Dataset({
+    features: ['id', 'timestamp', 'target'],
+    num_rows: 414
+}),
+ array(['T000402', 'T000403', 'T000404'], dtype='<U7'),
+ 0.6,
+ './outcomes/2026_02_08_hyperbolic',
+ 'hyperbolic')
+kwargs={}
+func_res=<omitted>
+elapsed_time_in_secs=1399.505
+start_ts=20260209-082800
+end_ts=20260209-085120
+error=False
